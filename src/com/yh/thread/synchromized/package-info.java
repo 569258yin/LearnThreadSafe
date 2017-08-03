@@ -6,7 +6,7 @@
  *
  * 对已经线程安全的类进行扩展时，应注意保证其线程安全持有相同的锁。
  *
- * 
+ *
  * Created by kevinyin on 2017/7/20.
  */
 package com.yh.thread.synchromized;

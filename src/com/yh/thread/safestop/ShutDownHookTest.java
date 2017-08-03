@@ -21,7 +21,7 @@ public class ShutDownHookTest {
 		
 		System.exit(0);
 		
-		System.out.println("Main EDN");
+		System.out.println("Main1 EDN");
 	}
 
 }
